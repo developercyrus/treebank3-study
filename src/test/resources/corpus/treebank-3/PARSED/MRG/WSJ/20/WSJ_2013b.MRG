@@ -1,0 +1,66 @@
+
+( (S 
+    (PP-TMP (IN In) 
+      (NP (NNP January) (CD 1980) ))
+    (, ,) 
+    (NP-SBJ-1 (NNP Jerome) (NNP Sanford) )
+    (, ,) 
+    (PP (IN as) 
+      (NP (JJ assistant) (NNP U.S.) (NN attorney) ))
+    (, ,) 
+    (VP (VBD was) 
+      (VP (VBN summoned) 
+        (NP (-NONE- *-1) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT a) (NN meeting) )
+            (PP (IN with) 
+              (NP 
+                (NP 
+                  (NP (DT a) (NNP Federal) (NNP Bureau) )
+                  (PP (IN of) 
+                    (NP (NNP Investigation) ))
+                  (NN agent) )
+                (VP (VBN assigned) 
+                  (NP (-NONE- *) )
+                  (PP-CLR (TO to) 
+                    (NP 
+                      (NP (DT the) (NNP Bureau) )
+                      (PP (IN of) 
+                        (NP (NNP Alcohol) 
+                          (, ,)
+                          (NNP Tobacco) 
+                          (CC and)
+                          (NNPS Firearms) ))
+                      (PP-LOC (IN in) 
+                        (NP (NNP Miami) )))))))))))
+    (. .) ))
+( (S-2 
+    (NP-SBJ (JJ Panamanian) (NN dictator) 
+      (NP (NNP Torrijos) ))
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ-1 (PRP he) )
+        (VP (VBD was) 
+          (VP (VBN told) 
+            (NP (-NONE- *-1) )
+            (SBAR (-NONE- 0) 
+              (S (-NONE- *T*-2) )))))
+      (, ,) )
+    (VP (VBD had) 
+      (VP (VBN granted) 
+        (NP 
+          (NP (DT the) (NN shah) )
+          (PP (IN of) 
+            (NP (NNP Iran) )))
+        (NP 
+          (NP (NN asylum) )
+          (PP-LOC (IN in) 
+            (NP (NNP Panama) )))
+        (PP (IN as) 
+          (NP 
+            (NP (DT a) (NN favor) )
+            (PP (TO to) 
+              (NP (NNP Washington) ))))))
+    (. .) ))

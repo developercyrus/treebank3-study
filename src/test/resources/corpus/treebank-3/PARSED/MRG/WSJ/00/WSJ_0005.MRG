@@ -1,0 +1,29 @@
+
+( (S 
+    (NP-SBJ-10 
+      (NP (NNP J.P.) (NNP Bolduc) )
+      (, ,) 
+      (NP 
+        (NP (NN vice) (NN chairman) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP W.R.) (NNP Grace) (CC &) (NNP Co.) )
+            (, ,) 
+            (SBAR 
+              (WHNP-10 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-10) )
+                (VP (VBZ holds) 
+                  (NP 
+                    (NP (DT a) 
+                      (ADJP (CD 83.4) (NN %) )
+                      (NN interest) )
+                    (PP-LOC (IN in) 
+                      (NP (DT this) (JJ energy-services) (NN company) )))))))))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN elected) 
+        (S 
+          (NP-SBJ (-NONE- *-10) )
+          (NP-PRD (DT a) (NN director) ))))
+    (. .) ))
